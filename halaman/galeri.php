@@ -1,6 +1,6 @@
 <div class="container pt-2">
-    <div class="row row-cols-1 row-cols-md-3 g-4">
-        <div class="col">
+    <div class="row row-cols-1 row-cols-lg-3 g-4">
+        <div class="col-lg">
             <div class="card h-100">
                 <img src="image/gambar.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -9,7 +9,7 @@
                 </div>
             </div>
         </div>
-        <div class="col">
+        <div class="col-lg">
             <div class="card h-100">
                 <img src="image/gambar.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -18,7 +18,7 @@
                 </div>
             </div>
         </div>
-        <div class="col">
+        <div class="col-lg">
             <div class="card h-100">
                 <img src="image/gambar.jpg" class="card-img-top" alt="...">
                 <div class="card-body">

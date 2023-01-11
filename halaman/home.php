@@ -12,8 +12,8 @@
             <h1>header</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam illum architecto explicabo unde nemo eveniet, sequi error vel. Ducimus explicabo repudiandae quos, sint ullam blanditiis. Repudiandae illo, voluptatum similique perferendis facilis et iusto temporibus quidem? Porro illo blanditiis animi corporis itaque voluptas, ipsam, vel non vero accusantium quam. Suscipit eveniet quia doloribus corporis totam facere fugit dicta neque sed animi, et quae blanditiis odit libero culpa? Mollitia rem alias quae eum explicabo nobis in ea distinctio quas eveniet fugiat enim repudiandae quos, architecto at vero autem esse, voluptate dolores aliquid adipisci totam.</p>
 
-            <div class="row row-cols-1 row-cols-md-3 g-4">
-                <div class="col">
+            <div class="row row-cols-1 row-cols-lg-3 g-4">
+                <div class="col-lg">
                     <div class="card h-100">
                         <img src="image/gambar.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -22,7 +22,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-lg">
                     <div class="card h-100">
                         <img src="image/gambar.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -31,7 +31,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-lg">
                     <div class="card h-100">
                         <img src="image/gambar.jpg" class="card-img-top" alt="...">
                         <div class="card-body">

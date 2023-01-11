@@ -1,6 +1,6 @@
-<div class="container-fluid p-4">
+<div class="container-fluid p-3">
     <div class="row">
-        <div class="col-lg-4 text-white bg-dark p-5">
+        <div class="col-lg-4 text-white bg-dark p-5 pb-5">
             <h4>Pemrograman web 1</h4>
             <ul>
                 <li>Nama : Ridho Pikriyansyah</li>
@@ -9,10 +9,12 @@
             </ul>
         </div>
         <div class="col-lg">
-            <h1>header</h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam illum architecto explicabo unde nemo eveniet, sequi error vel. Ducimus explicabo repudiandae quos, sint ullam blanditiis. Repudiandae illo, voluptatum similique perferendis facilis et iusto temporibus quidem? Porro illo blanditiis animi corporis itaque voluptas, ipsam, vel non vero accusantium quam. Suscipit eveniet quia doloribus corporis totam facere fugit dicta neque sed animi, et quae blanditiis odit libero culpa? Mollitia rem alias quae eum explicabo nobis in ea distinctio quas eveniet fugiat enim repudiandae quos, architecto at vero autem esse, voluptate dolores aliquid adipisci totam.</p>
+            <div class="pb-2">
+                <h1>header</h1>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam illum architecto explicabo unde nemo eveniet, sequi error vel. Ducimus explicabo repudiandae quos, sint ullam blanditiis. Repudiandae illo, voluptatum similique perferendis facilis et iusto temporibus quidem? Porro illo blanditiis animi corporis itaque voluptas, ipsam, vel non vero accusantium quam. Suscipit eveniet quia doloribus corporis totam facere fugit dicta neque sed animi, et quae blanditiis odit libero culpa? Mollitia rem alias quae eum explicabo nobis in ea distinctio quas eveniet fugiat enim repudiandae quos, architecto at vero autem esse, voluptate dolores aliquid adipisci totam.</p>
+            </div>
 
-            <div class="row row-cols-1 row-cols-lg-3 g-4">
+            <div class="row row-cols-1 row-cols-lg-3 g-4 pb-5">
                 <div class="col-lg">
                     <div class="card h-100">
                         <img src="image/gambar.jpg" class="card-img-top" alt="...">
